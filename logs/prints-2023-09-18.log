@@ -1,0 +1,6 @@
+13:22:09:924  {main} DEBUG tests.LoginTest - Password got enttered
+13:22:10:870  {main} DEBUG tests.LoginTest - Login Button has been Clicked
+13:22:21:073  {main} DEBUG tests.LoginTest - User did not looged in
+13:22:21:073  {main} INFO  tests.LoginTest - Login Test got Passed
+13:22:22:568  {AsyncHttpClient-1-7} TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame opCode=8
+13:22:22:572  {AsyncHttpClient-1-7} TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame length=2
